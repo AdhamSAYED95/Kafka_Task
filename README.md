@@ -126,7 +126,6 @@ GET /logs?page=2&limit=5&userName=john&sort=desc
   ],
   "pagination": {
     "page": 2,
-    "limit": 5,
     "totalItems": 23,
     "totalPages": 5,
     "hasNextPage": true
