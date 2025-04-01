@@ -8,7 +8,6 @@ A scalable event-driven microservice architecture using Kafka for real-time mess
 - **Consumer Service**: Consumes messages from Kafka and stores them in MongoDB
 - **API Endpoints**: Retrieve stored logs with pagination and filtering capabilities
 
-![System Architecture](https://via.placeholder.com/800x400.png?text=Kafka+%2B+MongoDB+Architecture)
 
 ## ✨ Features
 
