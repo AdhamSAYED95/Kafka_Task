@@ -94,7 +94,7 @@ docker-compose up -d
 # GET http://localhost:3001/user-activity/logs
 
 - Retrieve paginated and filtered logs
-- 
+
 # Query Parameters:
 
 page - Page number (default: 1)
